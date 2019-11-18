@@ -3,14 +3,6 @@ package threadex;
 public class ThreadExamples {
 	
 	
-	private ExtendsEx createExtendsEx() {
-		return new ExtendsEx();
-	}
-	
-	private ImplementsEx createImplementsEx() {
-		return new ImplementsEx();
-	}
-
 	public static void main(String[] args) {
 		ThreadExamples threadExamples = new ThreadExamples();		
 		
